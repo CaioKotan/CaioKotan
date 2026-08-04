@@ -1,22 +1,9 @@
 <h1 data-importer="text" align="left">Hello There!🫵</h1>
-###
 
-<h4 data-importer="text" align="center">now studying perceptron/mlp</h4>
-
-###
+<h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
 
 <h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
-
-###
-
-<h5 data-importer="text" align="center">-----------------------------------------------------------------------------------</h5>
-
-###
-
 <h2 data-importer="text" align="center">i'm code with</h2>
-<!-- HTML !-->
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
