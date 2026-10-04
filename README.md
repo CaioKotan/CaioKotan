@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hello There!🫵</h1>
+<h1 data-importer="text" align="center">Hello There!🫵</h1>
 
 <h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
 
@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-
+[![card](https://github-readme-stats.vercel.app/api?username=CaioKotan&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ###
