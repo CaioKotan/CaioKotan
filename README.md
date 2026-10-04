@@ -16,7 +16,3 @@
   <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-###
-```md
-[![card](https://github-readme-stats.vercel.app/api?username=CaioKotan&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-```
