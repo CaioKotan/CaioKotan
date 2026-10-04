@@ -1,5 +1,7 @@
 <h1 data-importer="text" align="center">Hello There!🫵</h1>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
 <h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
 
 <h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
