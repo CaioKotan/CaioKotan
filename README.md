@@ -3,7 +3,7 @@
 <h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
 
 <h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
-<h2 data-importer="text" align="center">i'm code with</h2>
+<h2 data-importer="text" align="center">i'm work with</h2>
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
