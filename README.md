@@ -16,4 +16,4 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=df2211&text_color=df2211&icon_color=aaaaaa&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
