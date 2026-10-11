@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
-<img src="3dgifmaker38898.gif"/>
+<div display="flex">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
+  <img src="3dgifmaker38898.gif"/>
+</div>
