@@ -1,22 +1,20 @@
-# 👋 Hello There! 🫵
+## Hello There! 🫵
 
 <p align="center">
-  <i>Building useful tools, experimenting with code, and making things work.</i>
+  <i>Now working on DDumper, a hex-dumper of any file (probably i invent this term atm)</i>
 </p>
 
 ---
 
-### 🚀 Currently Working On
-
+### DDumper
 **[DDumper](https://github.com/CaioKotan/DDumper)** — A visual tool for hex-dumping files, designed to make binary data extraction and inspection easier.
 
-### ⚙️ About Me
+### About Me
 
 I'm an Industrial Automation student interested in software development, embedded systems, and low-level programming.
-
 I work with microcontrollers such as the **ESP32**, developing projects involving IoT, automation, hardware integration, and connectivity. I also enjoy building desktop applications and developer tools that solve practical problems.
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -33,7 +31,7 @@ I work with microcontrollers such as the **ESP32**, developing projects involvin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 GitHub Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa" height="165" alt="GitHub statistics"/>
@@ -43,5 +41,5 @@ I work with microcontrollers such as the **ESP32**, developing projects involvin
 ---
 
 <p align="center">
-  <i>Always building something.</i>
+  <i></i>
 </p>
