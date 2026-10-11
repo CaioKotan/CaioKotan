@@ -1,11 +1,9 @@
 <h1 data-importer="text" align="center">Hello There!🫵</h1>
 <div display="flex">
   <div width=50%>
-    <p data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</p>
-    <p data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</p>
+    <h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
+    <h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
   </div>
-  <img src="3dgifmaker38898.gif"/>
-  
 </div>
 
 <h2 data-importer="text" align="center">i'm work with</h2>
