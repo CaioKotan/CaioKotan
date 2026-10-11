@@ -1,6 +1,5 @@
 <h1 data-importer="text" align="center">Hello There!🫵</h1>
 <h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
-<img src="3dgifmaker38898.gif"/>
 <h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
 <h2 data-importer="text" align="center">i'm work with</h2>
 
@@ -17,3 +16,4 @@
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
+<img src="3dgifmaker38898.gif"/>
