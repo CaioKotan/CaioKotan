@@ -16,5 +16,5 @@
 </div>
 <div display="flex">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
-  <img src="3dgifmaker38898.gif"/>
+  <img src="3dgifmaker38898.gif" width=50%/>
 </div>
