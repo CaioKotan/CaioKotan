@@ -1,6 +1,13 @@
 <h1 data-importer="text" align="center">Hello There!🫵</h1>
-<h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
-<h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
+<div display="flex">
+  <div>
+    <h4 data-importer="text" align="center">now working in DDumper project, a visual app for hex-dump any file</h4>
+    <h2 data-importer="text" align="left">I work with embedded systems development using microcontrollers such as the ESP32, focusing on IoT projects, automation, and connectivity.</h2>
+  </div>
+  <img src="3dgifmaker38898.gif"/>
+  
+</div>
+
 <h2 data-importer="text" align="center">i'm work with</h2>
 
 <div data-importer="techs" align="center">
