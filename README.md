@@ -1,4 +1,4 @@
-<h1>Hello There! 🫵</h1>
+<h1 align="center">Hello There! 🫵</h1>
 <p align="center">
   <i>Now working on DDumper, a hex-dumper of any file (probably i invent this term atm)</i>
 </p>
