@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Onyx&weight=700&size=120&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=Hello+There!+%F0%9F%AB%B5" alt="HELLO THERE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Onyx&weight=700&size=90&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=Hello+There!+%F0%9F%AB%B5" alt="HELLO THERE" />
 </p>
 <p align="center">
   <i>Now working on DDumper, a hex-dumper of any file (probably i invent this term atm)</i>
