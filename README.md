@@ -9,6 +9,8 @@
 **[DDumper](https://github.com/CaioKotan/DDumper)** — A visual tool for hex-dumping files, designed to make binary data extraction and inspection easier.
 ### NNeural
 **[NNeural](https://github.com/CaioKotan/NNeural)** — Coming soon: an AI built entirely in C; for now, a simplified way to build artificial neurons (perceptrons).
+### PID_C
+**[PID_C](https://github.com/CaioKotan/PID_C)** — A library developed in C to assist in programming PID models
 
 ### About Me
 
