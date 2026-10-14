@@ -38,7 +38,7 @@ I work with microcontrollers such as the **ESP32**, developing projects involvin
   <img src="https://github-readme-stats.vercel.app/api?username=CaioKotan&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa" height="200" alt="GitHub statistics"/>
   <img src="3dgifmaker56513.gif" height="200" alt="3D animated graphic"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioKotan&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa" height="500" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioKotan&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=aaaaaa&icon_color=aaaaaa" height="600" alt="GitHub statistics"/>
 </p>
 ---
 
