@@ -1,12 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+there+" alt="Typing SVG" /></a>
 <p align="center">
-  <i>Now working on DDumper, a hex-dumper of any file (probably i invent this term atm)</i>
+  <i>Now working on NNeural, a C library for simplify MLPs and Perceptrons</i>
 </p>
 
 ---
 
 ### DDumper
 **[DDumper](https://github.com/CaioKotan/DDumper)** — A visual tool for hex-dumping files, designed to make binary data extraction and inspection easier.
+### NNeural
+**[NNeural](https://github.com/CaioKotan/NNeural)** — Coming soon: an AI built entirely in C; for now, a simplified way to build artificial neurons (perceptrons).
 
 ### About Me
 
